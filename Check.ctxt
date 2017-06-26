@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Check
+comment0.text=\r\n@author\ Katherine\r\nHomework\ 3\r\nClass\ Check\r\n
+comment1.params=checkNumber\ payingTo\ reason\ checkAmount
+comment1.target=Check(int,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Create\ a\ new\ check\ with\ a\ given\ check\ number\r\n
+comment2.params=
+comment2.target=Check()
+comment3.params=
+comment3.target=int\ getNumber()
+comment3.text=\r\n\ return\ the\ check\ number\ for\ a\ check\r\n
+comment4.params=
+comment4.target=java.lang.String\ getpayingTo()
+comment4.text=\r\n\ return\ the\ payee\ information\r\n
+comment5.params=
+comment5.target=double\ getcheckAmount()
+comment6.params=
+comment6.target=void\ printCheck()
+comment6.text=\r\n\ Print\ out\ the\ check\r\n
+numComments=7
